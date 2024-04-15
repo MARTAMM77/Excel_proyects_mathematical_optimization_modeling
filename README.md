@@ -1,5 +1,5 @@
 # Excel_proyects_mathematical_optimization_mode
-   ![alt text](image-6.png)
+ ![alt text](images\Solver_image.jpg)
 
 
 ## Excel Exercises: Optimization and Financial Analysis Exercises.
@@ -19,7 +19,7 @@ This repository contains a collection of Excel exercises focusing on various top
 1. **VAN_or_NPV:**
 Excel file with exercises involving calculating the Net Present Value (NPV) of investment projects using Excel formulas; very useful to determine whether a project will be profitable or not.
 
-   ![alt text](image-7.png)
+   ![alt text](images\image-7.png)
 
 
 2. **price_for_Max_profit:** 
@@ -27,25 +27,25 @@ Here, you'll find Excel exercises related to calculate the optimal price to maxi
 
     Sell at a price of 530 dolars for a profit of 1042 dolars.
 
-   ![alt text](image-4.png)
+   ![alt text](images\image-4.png)
 3. **Linear_Progression:** 
 This section covers exercises that involve linear regression analysis using Excel: It's about finding the best solution to a problem, subject to certain constraints, when all relationships between the variables involved are linear; optimizing, maximizing, or minimizing a linear function (called the objective function) while satisfying a series of linear constraints.
 
    This image shows the result of one of exercises:
-![alt text](image.png)
+![alt text](images\image.png)
 
 4. **LP_Transport_and_asssigment:** 
 Here, there are linear programming problems about to allocate resources (such as products) from different sources (like factories) to various destinations (like warehouses) efficiently and at the lowest possible cost. It involves finding the best way to transport items from one place to another, considering constraints such as transportation capacity and demand at each destination. Such problems are commonly encountered in logistics, resource distribution, and task allocation.
-![alt text](image-3.png)
+![alt text](images\image-3.png)
 
 5. **Non-linear Progression:** Exercises in this section focus on non-linear regression analysis and modeling using Excel; It is used to solve problems where the relationships between the involved variables are not linear, which means they do not follow a straight line on a graph. Instead, they can have curves or more complicated shapes. This technique is useful for optimizing functions that cannot be represented linearly and is employed in a variety of fields.
 
-   ![alt text](image-2.png)
+   ![alt text](images\image-2.png)
 
 6. **Mixed_Integer_example:**
 These are optimization problems in which some of the variables being optimized must be integers (they cannot have decimal values), while others can have fractional values.
 
-   ![alt text](image-9.png)
+   ![alt text](images\image-9.png)
 
 
 
